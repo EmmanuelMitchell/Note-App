@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mitchzon-app/static/css/main.225fa182.css",
+    "main.js": "/mitchzon-app/static/js/main.f12feeb2.js",
+    "static/js/787.f5e219af.chunk.js": "/mitchzon-app/static/js/787.f5e219af.chunk.js",
+    "index.html": "/mitchzon-app/index.html",
+    "main.225fa182.css.map": "/mitchzon-app/static/css/main.225fa182.css.map",
+    "main.f12feeb2.js.map": "/mitchzon-app/static/js/main.f12feeb2.js.map",
+    "787.f5e219af.chunk.js.map": "/mitchzon-app/static/js/787.f5e219af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225fa182.css",
+    "static/js/main.f12feeb2.js"
+  ]
+}
